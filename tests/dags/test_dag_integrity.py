@@ -1,4 +1,4 @@
-"""Test the validity of all DAGs. This test ensures that all Dags have tags, retries set to two, and no import errors. Feel free to add and remove tests."""
+"""Test the validity of all DAGs. This test ensures that all of the Dags have tags, retries set to two, and no import errors. Feel free to add and remove tests."""
 
 import os
 import logging
