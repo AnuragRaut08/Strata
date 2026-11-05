@@ -6,7 +6,7 @@ from airflow.providers.google.cloud.operators.bigquery import BigQueryCreateEmpt
 
 from astro import sql as aql
 from astro.files import File
-from astro.sql.table import Table, Metadata
+from astro.sql.table import Table, Metadata 
 from astro.constants import FileType
 
 from include.dbt.cosmos_config import DBT_PROJECT_CONFIG, DBT_CONFIG
